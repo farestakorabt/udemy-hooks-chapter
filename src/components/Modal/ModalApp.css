@@ -1,0 +1,7 @@
+.modalApp {
+  background-color: rgb(201, 212, 179);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
