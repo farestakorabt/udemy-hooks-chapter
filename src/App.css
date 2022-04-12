@@ -1,0 +1,11 @@
+body {
+  height: 100vh;
+  width: 100%;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+input {
+  display: block;
+  margin: 1vh auto 0 auto;
+}
